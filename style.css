@@ -140,7 +140,8 @@ hr{
 #arrow{
         width: 70px;
         position: fixed;
-        margin-left: 850px;
+        margin-right: 30px;
+        font-size: x-large;
 }
 #hi>a{
     text-decoration: none;
